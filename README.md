@@ -81,7 +81,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bharatsivakatta&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bharat613&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bharatsivakatta&theme=tokyonight" width="48%" />
 </p>
 
@@ -90,9 +90,9 @@
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="mailto:bharatsivakatta@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/bharatsivakatta"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/bharatsivakatta"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
+  <a href="mailto:bharatsiva54@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/bharat-venkata-siva-katta-14665424a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Bharat613"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
 </p>
 
 ---
