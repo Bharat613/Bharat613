@@ -1,7 +1,7 @@
 
 <h1 align="center">
-<img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.gif" width="35" />
-  <strong>Hi, I'm Bharat Venkata Siva Katta</strong></h1>
+  Hi <span>👋</span>, I'm Bharat Venkata Siva Katta
+</h1>
 
 <h3 align="center">
   A passionate Data Scientist & Full Stack Developer from India
