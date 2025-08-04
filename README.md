@@ -61,6 +61,24 @@
 | 📊 **Sales Insights (Power BI)** | Power BI dashboard with KPIs, filters, and sales trends |
 
 ---
+---
+
+## 🧪 Practice Platforms
+
+<p align="center">
+  <a href="https://leetcode.com/your-username" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://www.hackerrank.com/your-username" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/your-username" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  </a>
+  <a href="https://www.codingninjas.com/studio/profile/your-username" target="_blank">
+    <img src="https://img.shields.io/badge/Coding Ninjas-DD6C00?style=for-the-badge&logo=codingninjas&logoColor=white" alt="Coding Ninjas" />
+  </a>
+</p>
 
 ## 📊 GitHub Stats
 
