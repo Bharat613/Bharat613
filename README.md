@@ -13,7 +13,7 @@
 - 🎓 B.Tech in Computer Science Engineering  
 - 🛠️ Currently working on a **MERN Stack Real-Time Chat Application**
 - 🌱 Exploring **Cloud, AI, and System Design**
-- 📫 Reach me at: `bharatsivakatta@gmail.com`
+- 📫 Reach me at: `bharatsiva54@gmail.com`
 
 ---
 
