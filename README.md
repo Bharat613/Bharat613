@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  Hi <span>👋</span>, I'm Bharat Venkata Siva Katta
+ <strong> Hi <span>👋</span>, I'm Bharat Venkata Siva Katta </strong>
 </h1>
 
 <h3 align="center">
