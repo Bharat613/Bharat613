@@ -1,7 +1,8 @@
 
 <h1 align="center">
+  <strong>Hi</strong>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="vertical-align: middle;" />
-  <strong>Hi, I'm Bharat Venkata Siva Katta</strong>
+  <strong>, I'm Bharat Venkata Siva Katta</strong>
 </h1>
 
 <h3 align="center">
