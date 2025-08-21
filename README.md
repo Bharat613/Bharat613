@@ -1,6 +1,4 @@
-<div align="center" style="padding: 20px; border-radius: 15px;
-background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%);
-color: white; font-family: Arial, sans-serif;">
+
 <h1 align="center">
  <strong> Hi <span>👋</span>, I'm Bharat Venkata Siva</strong>
 </h1>
@@ -111,4 +109,3 @@ color: white; font-family: Arial, sans-serif;">
   <a href="https://www.linkedin.com/in/bharat-venkata-siva-katta-14665424a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Bharat613"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
 </p>
-</div>
