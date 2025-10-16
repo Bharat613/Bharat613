@@ -1,103 +1,85 @@
-
 <h1 align="center">
- <strong> Hi <span>👋</span>, I'm Bharat Venkata Siva</strong>
+  <img src="https://media.giphy.com/media/hvRJCLFzjrwpXScad4/giphy.gif" width="30px"/>
+  &nbsp;<strong> Hi 👋, I'm Bharat Venkata Siva</strong>
 </h1>
 
 <h3 align="center">
-  A passionate Data Scientist & Full Stack Developer from India
+  A passionate <a href="https://en.wikipedia.org/wiki/Data_science" target="_blank">Data Scientist</a> & <a href="https://en.wikipedia.org/wiki/Full-stack_developer" target="_blank">Full Stack Developer</a> from India
 </h3>
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 B.Tech in Computer Science Engineering  
-- 🛠️ Currently working on a **MERN Stack Real-Time Chat Application**
-- 🌱 Exploring **Cloud, AI, and System Design**
+- 🎓 **B.Tech** in Computer Science Engineering (CS rocks! 💻)
+- 🛠️ Currently developing a **MERN Stack Real-Time Chat Application** (with live video! 💬)
+- 🌱 Exploring the frontiers of **Cloud, AI, and System Design** (future-proofing my skills 🚀)
 - 📫 Reach me at: `bharatsiva54@gmail.com`
 
 ---
 
-## 🚀 Skills
+## 🚀 Skills & Technologies
 
-### 👨‍💻 Programming Languages  
-![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sqlite&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+<div align="center">
 
-### 📦 Frameworks & Libraries  
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+### 👨‍💻 Programming Languages ✍️
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,r,sqlite,js,html,css" />
+</p>
 
-### 🧰 Tools & Platforms  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+### 📦 Frameworks & Libraries ✨
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind" />
+</p>
+
+### 🧰 Tools, Platforms & Data 📊
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,git,github,powerbi,tableau,vscode,postman,excel" />
+</p>
+
+</div>
 
 ---
 
-## 💼 Projects
+## 💼 Featured Projects
 
-| 🔨 Project | 📝 Description |
-|-----------|----------------|
-| 💬 **Real-Time Chat App** | MERN Stack chat app with real-time messaging and video calling using Socket.IO and PeerJS |
-| 🛒 **Shopeasy Grocery Website** | E-commerce site with product listings, cart, and payment integration |
-| 🗣️ **SPARK Voice Assistant** | Voice-enabled assistant built using JS & browser APIs |
-| 📄 **Smart Resume Analyser** | NLP-based ML model to evaluate resumes for job fit |
-| ✅ **Loan Approval Prediction** | ML model to predict loan eligibility using financial attributes |
-| 📊 **Sales Insights (Power BI)** | Power BI dashboard with KPIs, filters, and sales trends |
-
----
----
+| 🔨 Project | 📝 Description | 💡 Tech Highlights |
+|-----------|----------------|-------------------|
+| 💬 **Real-Time Chat App** | MERN Stack chat app with real-time messaging and video calling | **Socket.IO, PeerJS** |
+| 🛒 **Shopeasy Grocery Website** | E-commerce site with product listings, cart, and payment integration | **MERN Stack, Stripe/PayPal Integration** |
+| 🗣️ **SPARK Voice Assistant** | Voice-enabled assistant built using JS & browser APIs | **Speech Recognition API, JavaScript** |
+| 📄 **Smart Resume Analyser** | NLP-based ML model to evaluate resumes for job fit | **NLP, Machine Learning (ML), Python** |
+| ✅ **Loan Approval Prediction** | ML model to predict loan eligibility using financial attributes | **Classification ML Model, Python** |
+| 📊 **Sales Insights (Power BI)** | Power BI dashboard with KPIs, filters, and sales trends | **DAX, Data Visualization** |
 
 ---
 
 ## 🧪 Practice Platforms
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://leetcode.com/your-username" target="_blank">
-        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.hackerrank.com/your-username" target="_blank">
-        <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://auth.geeksforgeeks.org/user/your-username" target="_blank">
-        <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.codingninjas.com/studio/profile/your-username" target="_blank">
-        <img src="https://img.shields.io/badge/Coding Ninjas-DD6C00?style=for-the-badge&logo=codingninjas&logoColor=white" alt="Coding Ninjas" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+<p>
+  <a href="https://leetcode.com/your-username" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://www.hackerrank.com/your-username" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/your-username" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+  <a href="https://www.codingninjas.com/studio/profile/your-username" target="_blank"><img src="https://img.shields.io/badge/Coding Ninjas-DD6C00?style=for-the-badge&logo=codingninjas&logoColor=white" alt="Coding Ninjas" /></a>
+</p>
+</div>
 
+---
 
-## 📊 GitHub Stats
+## 📈 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bharat613&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bharat613&theme=tokyonight" width="48%" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=Bharat613&theme=react-dark" alt="GitHub Activity Graph" width="90%" />
+</p>
+<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bharat613&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Bharat's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharat613&layout=compact&theme=tokyonight&hide_border=true" alt="Bharat's Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bharat613&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ---
@@ -105,7 +87,15 @@
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="mailto:bharatsiva54@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/bharat-venkata-siva-katta-14665424a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Bharat613"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
+  <a href="mailto:bharatsiva54@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/bharat-venkata-siva-katta-14665424a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://github.com/Bharat613" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bharat613&color=blueviolet&style=flat-square" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7003F&width=435&lines=Always+learning+and+building...;Solving+problems+with+code.;Data+Science+%2B+Full+Stack+%3D+Awesome!;" alt="Typing Animation" />
 </p>
