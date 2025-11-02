@@ -1,7 +1,8 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzjrwpXScad4/giphy.gif" width="30px"/>
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="30px"/>
   &nbsp;<strong> Hi, I'm Bharat Venkata Siva!</strong>
 </h1>
+
 
 <h3 align="center">
   Data Scientist 🧪 & Full Stack Developer 💻 from India
