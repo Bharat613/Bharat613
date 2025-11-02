@@ -30,7 +30,7 @@
 
 ---
 
-## ⚙️ Tech Arsenal (Table Structure)
+## ⚙️ Tech Arsenal
 
 <div align="center">
 
@@ -44,16 +44,20 @@
 
 ---
 
-## 💼 Featured Projects
+## 💼 Featured Projects (Now Centered!)
+
+<div align="center">
 
 | 💡 Project | 🚀 Description | 🧰 Tech |
-|-------------|----------------|---------|
+| :---: | :---: | :---: |
 | 💬 **Real-Time Chat App** | MERN chat app with video calling | React, Node, **Socket.IO, PeerJS** |
 | 🛒 **Shopeasy Grocery Site** | E-commerce app with payment gateway | MERN, **Stripe** |
 | 🗣️ **SPARK Voice Assistant** | Voice assistant using JS APIs | **JavaScript, Speech API** |
 | 📄 **Smart Resume Analyzer** | NLP-powered job-fit analyzer | **Python, spaCy, TF-IDF** |
 | ✅ **Loan Prediction System** | ML model for loan eligibility | **Python, Scikit-learn** |
 | 📊 **Sales Insights Dashboard** | BI dashboard with KPIs | **Power BI, DAX** |
+
+</div>
 
 ---
 
