@@ -30,24 +30,15 @@
 
 ---
 
-## ⚙️ Tech Arsenal - CORRECTED SKILLS LAYOUT
+## ⚙️ Tech Arsenal (Table Structure)
 
 <div align="center">
 
-### 👨‍💻 Languages & Data Science  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,r,js,html,css,sql" height="45"/>
-</p>
-
-### ⚡ Full Stack & UI Frameworks  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,bootstrap" height="45"/>
-</p>
-
-### ☁️ Tools, Platforms & BI  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,powerbi,tableau" height="45"/>
-</p>
+| Category | Skills & Technologies |
+| :---: | :--- |
+| **👨‍💻 Languages & Data Science** | <img src="https://skillicons.dev/icons?i=python,java,cpp,c,r,js,html,css,sql" height="45"/> |
+| **⚡ Full Stack & UI Frameworks** | <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,bootstrap" height="45"/> |
+| **☁️ Tools, Platforms & BI** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,powerbi,tableau" height="45"/> |
 
 </div>
 
