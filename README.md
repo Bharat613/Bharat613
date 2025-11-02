@@ -38,13 +38,13 @@
 | :---: | :--- |
 | **👨‍💻 Languages & Data Science** | <img src="https://skillicons.dev/icons?i=python,java,cpp,c,r,js,html,css,sql" height="45"/> |
 | **⚡ Full Stack & UI Frameworks** | <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,bootstrap" height="45"/> |
-| **☁️ Tools, Platforms & BI** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="45"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power BI" width="45" height="45"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="45" height="45"/> |
+| **☁️ Tools, Platforms & BI** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="45"/> &nbsp; <img src="https://its.ucr.edu/media/1521/download?attachment" alt="Power BI" width="45" height="45"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="45" height="45"/> |
 
 </div>
 
 ---
 
-## 💼 Featured Projects (Now Centered!)
+## 💼 Featured Projects
 
 <div align="center">
 
@@ -92,9 +92,9 @@
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="mailto:bharatsiva54@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/bharat-venkata-siva-katta-14665424a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Bharat613" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:bharatsiva54@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/bharat-venkata-siva-katta-14665424a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Bharat613" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 <p align="center">
