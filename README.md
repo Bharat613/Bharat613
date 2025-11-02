@@ -38,7 +38,7 @@
 | :---: | :--- |
 | **👨‍💻 Languages & Data Science** | <img src="https://skillicons.dev/icons?i=python,java,cpp,c,r,js,html,css,sql" height="45"/> |
 | **⚡ Full Stack & UI Frameworks** | <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,bootstrap" height="45"/> |
-| **☁️ Tools, Platforms & BI** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="45"/> &nbsp; <img src="https://skillicons.dev/icons?i=powerbi" height="45"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="45" height="45"/> |
+| **☁️ Tools, Platforms & BI** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="45"/> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/900px-New_Power_BI_Logo.svg.png?20210102182532" height="45"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="45" height="45"/> |
 
 </div>
 
