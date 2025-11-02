@@ -38,7 +38,7 @@
 | :---: | :--- |
 | **👨‍💻 Languages & Data Science** | <img src="https://skillicons.dev/icons?i=python,java,cpp,c,r,js,html,css,sql" height="45"/> |
 | **⚡ Full Stack & UI Frameworks** | <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,bootstrap" height="45"/> |
-| **☁️ Tools, Platforms & BI** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="45"/> &nbsp; <img src="https://its.ucr.edu/media/1521/download?attachment" alt="Power BI" width="45" height="45"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="45" height="45"/> |
+| **☁️ Tools, Platforms & BI** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="45"/> &nbsp; <div style="display:inline-block; border-radius:5px; overflow:hidden;"><img src="https://its.ucr.edu/media/1521/download?attachment" alt="Power BI" width="45" height="45"/></div> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="45" height="45"/> |
 
 </div>
 
