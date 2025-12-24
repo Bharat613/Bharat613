@@ -20,8 +20,8 @@
 
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Globe_animation.gif" width="25" style="vertical-align: middle;" />
-  <strong> India 🇮🇳 | Data Scientist & MERN Specialist</strong>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Globe%20Showing%20Asia-Australia.png" width="35" style="vertical-align: middle;" />
+  <strong style="vertical-align: middle;">&nbsp; India 🇮🇳 | Data Scientist & MERN Specialist</strong>
 </p>
 
 
