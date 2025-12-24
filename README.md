@@ -20,12 +20,14 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=35&text=INDIA&fontSize=30&fontColor=FF9933,FFFFFF,138808&fontAlignY=50" style="vertical-align: middle;" />
-
-  <strong style="vertical-align: middle; font-size: 20px;">
-    &nbsp; 🇮🇳 | Data Scientist & MERN Specialist
+  <strong style="vertical-align: middle;">
+    <span style="color:#FF9933;">IN</span>
+    <span style="color:#FFFFFF;">D</span>
+    <span style="color:#138808;">IA</span>
+    🇮🇳 | Data Scientist & MERN Specialist
   </strong>
 </p>
+
 
 ---
 
