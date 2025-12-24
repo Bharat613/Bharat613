@@ -1,10 +1,10 @@
 <!-- <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=BHARAT%20VENKATA%20SIVA&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" /> </p> -->
 <!-- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=BHARAT%20VENKATA%20SIVA&fontSize=70&animation=fadeIn&fontAlignY=35&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=BHARAT%20VENKATA%20SIVA&fontSize=70&animation=fadeIn&fontAlignY=35&fontColor=ffffff&fontFamily=Georgia" width="100%" />
 </p> -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=BHARAT%20VENKATA%20SIVA&fontSize=50&animation=fadeIn&fontAlignY=35&fontColor=ffffff&fontFamily=Georgia" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=𝘽𝙃𝘼𝙍𝘼𝙏%20𝙑𝙀𝙉𝙆𝘼𝙏𝘼%20𝙎𝙄𝙑𝘼&fontSize=50&animation=fadeIn&fontAlignY=35&fontColor=ffffff" width="100%" />
 </p>
 
 <div align="center">
