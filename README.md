@@ -1,32 +1,32 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="30px"/>
-  <strong> Hi, I'm Bharat Venkata Siva!</strong>
+  &nbsp;<strong> Hi, I'm Bharat Venkata Siva!</strong>
 </h1>
 
 <h3 align="center">
-  Data Scientist 🧪 | Full Stack Developer 💻 | MERN 🚀
+  Data Scientist 🧪 & Full Stack Developer 💻 from India
 </h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Turning+ideas+into+scalable+systems;Data+to+Insights+with+AI+%26+ML;Building+MERN+Apps+with+Cloud+Focus;Always+Learning+System+Design" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Solving+problems+with+code+and+data;Building+MERN+Stack+apps+with+AI;Exploring+Cloud+%26+System+Design" alt="Typing Animation" />
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="60"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZueGZueGZueGZueGZueGZueGZueGZueGZueGZueGZueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/du3J3cXyzhj75IOgvA/giphy.gif" width="60" />
 </p>
 
 <h3 align="center">
-🚀 Turning <b>ideas into scalable systems</b>, <b>data into intelligence</b>, and <b>UI into delightful experiences</b>.
+  🚀 Passionate about turning ideas into code, data into insights, and designs into experiences.
 </h3>
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 Pursuing **B.Tech in Computer Science Engineering**
-- 💬 Building a **MERN Real-Time Chat App** with video calling 🎥
-- 🌱 Exploring **Cloud, AI, ML & System Design**
-- 📫 Reach me at: **bharatsiva54@gmail.com**
+* 🎓 Pursuing **B.Tech in Computer Science Engineering**
+* 💬 Currently building: **MERN Stack Real-Time Chat App** (with live video 🎥)
+* 🌱 Deep diving into: **Cloud Infrastructure & AI Integration**
+* 📫 Reach me at: `bharatsiva54@gmail.com`
 
 ---
 
@@ -34,22 +34,11 @@
 
 <div align="center">
 
-### 👨‍💻 Languages & Data Science
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,r,js,html,css,sql" height="45"/>
-
-<br/><br/>
-
-### ⚡ Full Stack & Frameworks
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,bootstrap" height="45"/>
-
-<br/><br/>
-
-### ☁️ Tools, Platforms & BI
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="45"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="45"/>
-&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="45"/>
+| Category | Skills & Technologies |
+| :--- | :--- |
+| **👨‍💻 Languages & DS** | <img src="https://skillicons.dev/icons?i=python,java,cpp,c,r,js,html,css,sql" height="40"/> |
+| **⚡ Full Stack** | <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,bootstrap" height="40"/> |
+| **☁️ Tools & BI** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,aws,docker" height="40"/> <br> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="30"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="30"/> |
 
 </div>
 
@@ -58,58 +47,38 @@
 ## 💼 Featured Projects
 
 | 💡 Project | 🚀 Description | 🧰 Tech |
-| :---: | :---: | :---: |
-| 💬 **Real-Time Chat App** | Chat app with video calling | React, Node, Socket.IO, PeerJS |
-| 🛒 **Shopeasy Grocery Site** | E-commerce with payments | MERN, Stripe |
-| 🗣️ **SPARK Voice Assistant** | Voice assistant | JavaScript, Web Speech API |
-| 📄 **Smart Resume Analyzer** | NLP job-fit analyzer | Python, spaCy, TF-IDF |
-| ✅ **Loan Prediction System** | ML prediction model | Python, Scikit-learn |
-| 📊 **Sales Insights Dashboard** | Business KPIs | Power BI, DAX |
-
----
-
-## 🧪 Competitive Coding
-
-<p align="center">
-  <a href="https://leetcode.com/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://www.hackerrank.com/" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-  <a href="https://www.geeksforgeeks.org/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-  <a href="https://www.codingninjas.com/" target="_blank"><img src="https://img.shields.io/badge/Coding%20Ninjas-DD6C00?style=for-the-badge&logo=codingninjas&logoColor=white"/></a>
-</p>
+| :--- | :--- | :--- |
+| 💬 **Real-Time Chat** | MERN chat app with video calling | React, Socket.IO, PeerJS |
+| 🛒 **Shopeasy** | E-commerce app with payment gateway | MERN, Stripe |
+| 📄 **Resume Analyzer** | NLP-powered job-fit analyzer | Python, spaCy, TF-IDF |
+| ✅ **Loan Prediction** | ML model for loan eligibility | Python, Scikit-learn |
+| 📊 **Sales Dashboard** | BI dashboard with real-time KPIs | Power BI, DAX |
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bharat613&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bharat613&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Bharat613&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bharat613&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharat613&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bharat613&theme=onedark&no-frame=true&row=1&column=6"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bharat613&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharat613&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 </p>
 
 ---
 
-## 🔗 Connect With Me
+## 🔗 Connect with Me
 
 <p align="center">
   <a href="mailto:bharatsiva54@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/bharat-venkata-siva-katta-14665424a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Bharat613" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/bharat-venkata-siva-katta-14665424a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Bharat613"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bharat613&label=Profile+Views&color=blueviolet&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=Bharat613&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
 </p>
 
 <p align="center">
