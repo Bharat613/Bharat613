@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Bharat%20Venkata%20Siva&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=BHARAT%20VENKATA%20SIVA&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
 
 <div align="center">
