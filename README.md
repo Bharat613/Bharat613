@@ -79,15 +79,15 @@ I am a Computer Science Engineering undergraduate with a strong interest in Full
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bharat613&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Bharat613&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%"/>
   
-  <img src="https://github-readme-streak-stats-five-trefoil.vercel.app/?user=Bharat613&theme=tokyonight&hide_border=true&v=2025" width="48%"/>
+  <img src="https://github-readme-streak-stats.vercel.app/?user=Bharat613&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bharat613&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharat613&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
   
-  <img src="https://github-profile-trophy-nu.vercel.app/?username=Bharat613&theme=onedark&no-frame=true&row=1&column=6&v=2" width="48%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Bharat613&theme=onedark&no-frame=true&row=1&column=6&margin-w=15" width="48%"/>
 </p>
 
 ---
