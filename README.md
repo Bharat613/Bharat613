@@ -1,23 +1,25 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="30px"/>
-  &nbsp;<strong> Hi, I'm Bharat Venkata Siva!</strong>
-</h1>
-
-<h3 align="center">
-  Data Scientist 🧪 & Full Stack Developer 💻 from India
-</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Bharat%20Venkata%20Siva&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+</p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Solving+problems+with+code+and+data;Building+MERN+Stack+apps+with+AI;Always+learning+Cloud+%26+System+Design" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=ARCHITECTING+DATA+SOLUTIONS;ENGINEERING+FULL+STACK+APPS;DRIVING+AI+INNOVATION" alt="Typing Animation" />
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZueGZueGZueGZueGZueGZueGZueGZueGZueGZueGZueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/du3J3cXyzhj75IOgvA/giphy.gif" width="60" />
+  <img src="https://cdnjs.cloudflare.com/ajax/libs/svg.js/3.1.2/svg.min.js" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c5d1-4db7-88ce-ee0ca76504a9.gif" width="350px" />
 </p>
 
-<h3 align="center">
-  🚀 Passionate about turning ideas into code, data into insights, and designs into experiences.
-</h3>
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" /> 
+  Turning Logic into Art & Data into Strategy
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="35" />
+</h2>
+
+<p align="center">
+  <strong>India 🇮🇳 | Data Scientist & MERN Specialist</strong>
+</p>
 
 ---
 
