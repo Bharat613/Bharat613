@@ -20,11 +20,10 @@
 
 
 <p align="center">
-  <strong style="vertical-align: middle;">
-    <span style="color:orange;">IN</span>
-    <span style="color:white;">D</span>
-    <span style="color:green;">IA</span>
-    🇮🇳 | Data Scientist & MERN Specialist
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=35&text=IN&fontColor=FF9933&fontSize=30&fontAlignY=50&width=45" style="vertical-align: middle;" /><img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=35&text=D&fontColor=FFFFFF&fontSize=30&fontAlignY=50&width=30" style="vertical-align: middle;" /><img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=35&text=IA&fontColor=138808&fontSize=30&fontAlignY=50&width=45" style="vertical-align: middle;" />
+  
+  <strong style="vertical-align: middle; font-size: 20px;">
+    &nbsp; 🇮🇳 | Data Scientist & MERN Specialist
   </strong>
 </p>
 
