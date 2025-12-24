@@ -4,8 +4,8 @@
 </p> -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff,3a7bd5&height=200&section=header&text=BHARAT%20VENKATA%20SIVA&fontSize=70&animation=fadeIn&fontAlignY=35&fontColor=ffffff&fontFamily=Roboto" width="100%" />
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=041E42&height=200&section=header&text=BHARAT%20VENKATA%20SIVA&fontSize=70&animation=fadeIn&fontAlignY=35&fontColor=FFD700&fontFamily=Georgia" width="100%" />
+</p>>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=ARCHITECTING+DATA+SOLUTIONS;ENGINEERING+FULL+STACK+APPS;DRIVING+AI+INNOVATION" alt="Typing Animation" />
