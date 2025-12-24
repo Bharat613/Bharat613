@@ -5,18 +5,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=ARCHITECTING+DATA+SOLUTIONS;ENGINEERING+FULL+STACK+APPS;DRIVING+AI+INNOVATION" alt="Typing Animation" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c5d1-4db7-88ce-ee0ca76504a9.gif" width="380px" style="margin-bottom: 40px;" />
-
-  <p align="center" style="margin-top: 30px;">
-    <span style="font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 28px; font-weight: 800; color: #007BFF; letter-spacing: 1px; line-height: 1.5;">
-      TURNING LOGIC INTO ART
-    </span>
-    <span style="font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 22px; font-weight: 400; color: #555; font-style: italic;">
-      Transforming Data into Strategy
-    </span>
-  </p>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=40&text=IN%20D%20IA&fontSize=35&fontColor=FF9933,FFFFFF,138808&fontAlignY=50" style="vertical-align: middle;" />
+  <strong style="vertical-align: middle; font-size: 20px;">
+    &nbsp; 🇮🇳 | Data Scientist & MERN Specialist
+  </strong>
+</p>
 
 
 <div align="center">
