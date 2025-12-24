@@ -19,14 +19,9 @@
 </div>
 
 
-<p align="center" style="display: flex; align-items: center; justify-content: center; gap: 2px;">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=35&text=IN&fontColor=FF9933&fontSize=30&fontAlignY=50&width=45" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=35&text=D&fontColor=FFFFFF&fontSize=30&fontAlignY=50&width=30" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=35&text=IA&fontColor=138808&fontSize=30&fontAlignY=50&width=45" />
-  <span style="font-size: 20px; font-weight: bold; margin-left: 6px;">🇮🇳 | Data Scientist & MERN Specialist</span>
+<<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=35&text=IN&fontColor=FF9933&fontSize=30&fontAlignY=50&width=45" align="center" /><img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=35&text=D&fontColor=FFFFFF&fontSize=30&fontAlignY=50&width=30" align="center" /><img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=35&text=IA&fontColor=138808&fontSize=30&fontAlignY=50&width=45" align="center" /><strong style="font-size: 20px;">&nbsp;🇮🇳 | Data Scientist & MERN Specialist</strong>
 </p>
-
-
 
 ---
 
