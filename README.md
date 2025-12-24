@@ -20,9 +20,9 @@
 
 
 <p align="center">
-  <img src="https://img.icons8.com/fluency/48/globe.png" width="30" style="vertical-align: middle;" />
   <strong style="vertical-align: middle;">&nbsp; India 🇮🇳 | Data Scientist & MERN Specialist</strong>
 </p>
+
 ---
 
 ## 🧠 About Me
