@@ -19,13 +19,13 @@
 </div>
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=35&text=IN&fontColor=FF9933&fontSize=30&fontAlignY=50&width=45" style="vertical-align: middle;" /><img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=35&text=D&fontColor=FFFFFF&fontSize=30&fontAlignY=50&width=30" style="vertical-align: middle;" /><img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=35&text=IA&fontColor=138808&fontSize=30&fontAlignY=50&width=45" style="vertical-align: middle;" />
-  
-  <strong style="vertical-align: middle; font-size: 20px;">
-    &nbsp; 🇮🇳 | Data Scientist & MERN Specialist
-  </strong>
+<p align="center" style="display: flex; align-items: center; justify-content: center; gap: 2px;">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=35&text=IN&fontColor=FF9933&fontSize=30&fontAlignY=50&width=45" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=35&text=D&fontColor=FFFFFF&fontSize=30&fontAlignY=50&width=30" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=35&text=IA&fontColor=138808&fontSize=30&fontAlignY=50&width=45" />
+  <span style="font-size: 20px; font-weight: bold; margin-left: 6px;">🇮🇳 | Data Scientist & MERN Specialist</span>
 </p>
+
 
 
 ---
