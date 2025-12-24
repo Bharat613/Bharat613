@@ -7,6 +7,14 @@
 </div>
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Bharat%20Venkata%20Siva&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+</p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=ARCHITECTING+DATA+SOLUTIONS;ENGINEERING+FULL+STACK+APPS;DRIVING+AI+INNOVATION" alt="Typing Animation" />
+</div>
+
+<p align="center">
   <img src="https://cdnjs.cloudflare.com/ajax/libs/svg.js/3.1.2/svg.min.js" />
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c5d1-4db7-88ce-ee0ca76504a9.gif" width="350px" />
 </p>
