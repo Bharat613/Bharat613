@@ -7,13 +7,18 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c5d1-4db7-88ce-ee0ca76504a9.gif" width="350px" style="margin-bottom: 10px;" />
-  <h2 style="margin-top: 0; color: #00BFFF; font-family: 'Courier New', Courier, monospace;">
-    Turning Logic into Art. Transforming Data into Strategy.
-  </h2>
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c5d1-4db7-88ce-ee0ca76504a9.gif" width="380px" style="margin-bottom: 40px;" />
+
+  <p align="center" style="margin-top: 30px;">
+    <span style="font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 28px; font-weight: 800; color: #007BFF; letter-spacing: 1px; line-height: 1.5;">
+      TURNING LOGIC INTO ART
+    </span>
+    <br />
+    <span style="font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 22px; font-weight: 400; color: #555; font-style: italic;">
+      Transforming Data into Strategy
+    </span>
+  </p>
 </div>
-
-
 
 
 <p align="center">
