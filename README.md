@@ -12,10 +12,9 @@
 </p>
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" /> 
-  Turning Logic into Art & Data into Strategy
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="35" />
+  Turning Logic into Art. Transforming Data into Strategy.
 </h2>
+
 
 <p align="center">
   <strong>India 🇮🇳 | Data Scientist & MERN Specialist</strong>
