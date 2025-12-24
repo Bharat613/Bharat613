@@ -21,9 +21,9 @@
 
 <p align="center">
   <strong style="vertical-align: middle;">
-    <span style="color:#FF9933;">IN</span>
-    <span style="color:#FFFFFF;">D</span>
-    <span style="color:#138808;">IA</span>
+    <span style="color:orange;">IN</span>
+    <span style="color:white;">D</span>
+    <span style="color:green;">IA</span>
     🇮🇳 | Data Scientist & MERN Specialist
   </strong>
 </p>
