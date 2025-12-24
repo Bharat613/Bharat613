@@ -20,10 +20,9 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Globe%20Showing%20Asia-Australia.png" width="35" style="vertical-align: middle;" />
+  <img src="https://raw.githubusercontent.com/nelsonfritsch/nelsonfritsch/master/globe.gif" width="30" style="vertical-align: middle;" />
   <strong style="vertical-align: middle;">&nbsp; India 🇮🇳 | Data Scientist & MERN Specialist</strong>
 </p>
-
 
 ---
 
