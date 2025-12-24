@@ -1,7 +1,5 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="30" vertical-align="middle" />
-  <strong style="font-size: 1.2em; vertical-align: middle;"> India 🇮🇳 | Data Scientist & MERN Specialist</strong>
-</p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=BHARAT%20VENKATA%20SIVA&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" /> </p>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=ARCHITECTING+DATA+SOLUTIONS;ENGINEERING+FULL+STACK+APPS;DRIVING+AI+INNOVATION" alt="Typing Animation" />
