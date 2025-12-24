@@ -1,8 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=BHARAT%20VENKATA%20SIVA&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
-  
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=100&section=header&text=BHARAT%20VENKATA%20SIVA&fontSize=70&fontAlignY=50&reversal=true&opacity=0.2" width="100%" style="margin-top: -50px; transform: scaleY(-1); filter: blur(2px);" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=BHARAT%20VENKATA%20SIVA&fontSize=70&animation=fadeIn&fontAlignY=35" 
+    width="100%" 
+    style="opacity: 0.85; filter: drop-shadow(0 8px 15px rgba(0,0,0,0.3)); margin-top: 20px;"
+  />
 </p>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=ARCHITECTING+DATA+SOLUTIONS;ENGINEERING+FULL+STACK+APPS;DRIVING+AI+INNOVATION" alt="Typing Animation" />
