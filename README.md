@@ -10,7 +10,6 @@
   &fontAlignY=35
   &fontColor=00FFFF" width="100%" />
 </p>
->
 
 
 <div align="center">
