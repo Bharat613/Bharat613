@@ -4,7 +4,7 @@
 </p> -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=BHARAT%20VENKATA%20SIVA&fontSize=70&animation=fadeIn&fontAlignY=35&fontColor=ffffff&fontFamily=Georgia" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=BHARAT%20VENKATA%20SIVA&fontSize=50&animation=fadeIn&fontAlignY=35&fontColor=ffffff&fontFamily=Georgia" width="100%" />
 </p>>
 
 <div align="center">
