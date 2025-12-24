@@ -12,26 +12,6 @@
   </strong>
 </p>
 
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td style="border: none;">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=35&text=IN&fontColor=FF9933&fontSize=30&fontAlignY=50&width=45" />
-      </td>
-      <td style="border: none;">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=35&text=D&fontColor=FFFFFF&fontSize=30&fontAlignY=50&width=30" />
-      </td>
-      <td style="border: none;">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=35&text=IA&fontColor=138808&fontSize=30&fontAlignY=50&width=45" />
-      </td>
-      <td style="border: none; white-space: nowrap;">
-        <strong style="font-size: 20px;">&nbsp;🇮🇳 | Data Scientist & MERN Specialist</strong>
-      </td>
-    </tr>
-  </table>
-</div>
-
 ---
 
 ## 🧠 About Me
