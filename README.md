@@ -23,10 +23,15 @@
 
 ## 🧠 About Me
 
-* 🎓 Pursuing **B.Tech in Computer Science Engineering**
-* 💬 Building a **MERN Stack Real-Time Chat App** (with live video 🎥)
-* 🌱 Exploring **Cloud, AI, and System Design**
-* 📫 Reach me: `bharatsiva54@gmail.com`
+I am a Computer Science Engineering undergraduate with a strong interest in Full Stack Development, Data Science, and AI-driven applications. I enjoy building scalable web applications, solving real-world problems using data and machine learning, and continuously improving my system design skills.
+
+🎓 B.Tech in Computer Science Engineering
+
+🚀 Developing a MERN Stack real-time chat application with video calling and WebRTC
+
+🤖 Actively exploring Cloud Computing, Artificial Intelligence, and System Design
+
+📧 Email: bharatsiva54@gmail.com
 
 ---
 
