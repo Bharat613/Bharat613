@@ -8,10 +8,11 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c5d1-4db7-88ce-ee0ca76504a9.gif" width="350px" style="margin-bottom: 10px;" />
-  <h2 style="margin-top: 0;">
+  <h2 style="margin-top: 0; color: #00BFFF; font-family: 'Courier New', Courier, monospace;">
     Turning Logic into Art. Transforming Data into Strategy.
   </h2>
 </div>
+
 
 
 
