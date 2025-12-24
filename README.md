@@ -13,7 +13,6 @@
     <span style="font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 28px; font-weight: 800; color: #007BFF; letter-spacing: 1px; line-height: 1.5;">
       TURNING LOGIC INTO ART
     </span>
-    <br />
     <span style="font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 22px; font-weight: 400; color: #555; font-style: italic;">
       Transforming Data into Strategy
     </span>
