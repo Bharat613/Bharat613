@@ -5,12 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=ARCHITECTING+DATA+SOLUTIONS;ENGINEERING+FULL+STACK+APPS;DRIVING+AI+INNOVATION" alt="Typing Animation" />
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=40&text=IN%20D%20IA&fontSize=35&fontColor=FF9933,FFFFFF,138808&fontAlignY=50" style="vertical-align: middle;" />
-  <strong style="vertical-align: middle; font-size: 20px;">
-    &nbsp; 🇮🇳 | Data Scientist & MERN Specialist
-  </strong>
-</p>
+<p align="center"> <strong>India 🇮🇳 | Data Scientist & MERN Specialist</strong> </p>
 
 ---
 
