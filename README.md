@@ -22,8 +22,10 @@
 
 
 <p align="center">
-  <strong>India 🇮🇳 | Data Scientist & MERN Specialist</strong>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Globe_animation.gif" width="25" style="vertical-align: middle;" />
+  <strong> India 🇮🇳 | Data Scientist & MERN Specialist</strong>
 </p>
+
 
 ---
 
