@@ -8,25 +8,21 @@
 </h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Solving+problems+with+code+and+data;Building+MERN+Stack+apps+with+AI;Exploring+Cloud+%26+System+Design" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=Solving+problems+with+code+and+data;Building+MERN+Stack+apps+with+AI;Always+learning+Cloud+%26+System+Design" alt="Typing Animation" />
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZueGZueGZueGZueGZueGZueGZueGZueGZueGZueGZueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/du3J3cXyzhj75IOgvA/giphy.gif" width="60" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZueGZueGZueGZueGZueGZueGZueGZueGZueGZueGZueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/du3J3cXyzhj75IOgvA/giphy.gif" width="65" />
 </p>
-
-<h3 align="center">
-  🚀 Passionate about turning ideas into code, data into insights, and designs into experiences.
-</h3>
 
 ---
 
 ## 🧠 About Me
 
-* 🎓 Pursuing **B.Tech in Computer Science Engineering**
-* 💬 Currently building: **MERN Stack Real-Time Chat App** (with live video 🎥)
-* 🌱 Deep diving into: **Cloud Infrastructure & AI Integration**
-* 📫 Reach me at: `bharatsiva54@gmail.com`
+* 🎓 **Education:** Pursuing **B.Tech in Computer Science Engineering**.
+* 🚀 **Current Focus:** Developing high-performance web applications and extracting actionable insights from complex datasets.
+* 💬 **Building:** A **MERN Stack Real-Time Chat App** featuring WebRTC for live video communication and Socket.io for instant messaging.
+* 📫 **Contact:** Drop me a line at `bharatsiva54@gmail.com`.
 
 ---
 
@@ -34,11 +30,11 @@
 
 <div align="center">
 
-| Category | Skills & Technologies |
+| Category | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Skills & Technologies &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | :--- | :--- |
-| **👨‍💻 Languages & DS** | <img src="https://skillicons.dev/icons?i=python,java,cpp,c,r,js,html,css,sql" height="40"/> |
-| **⚡ Full Stack** | <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,bootstrap" height="40"/> |
-| **☁️ Tools & BI** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,aws,docker" height="40"/> <br> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="30"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="30"/> |
+| **👨‍💻 Languages** | <img src="https://skillicons.dev/icons?i=python,java,cpp,c,r,js,html,css,sql" height="45"/> |
+| **⚡ Full Stack** | <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,bootstrap" height="45"/> |
+| **☁️ Tools & BI** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,aws,docker" height="45"/> <br> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /> |
 
 </div>
 
@@ -46,25 +42,25 @@
 
 ## 💼 Featured Projects
 
-| 💡 Project | 🚀 Description | 🧰 Tech |
+| 💡 Project Name | 🚀 Deep Dive & Description | 🧰 Tech Stack |
 | :--- | :--- | :--- |
-| 💬 **Real-Time Chat** | MERN chat app with video calling | React, Socket.IO, PeerJS |
-| 🛒 **Shopeasy** | E-commerce app with payment gateway | MERN, Stripe |
-| 📄 **Resume Analyzer** | NLP-powered job-fit analyzer | Python, spaCy, TF-IDF |
-| ✅ **Loan Prediction** | ML model for loan eligibility | Python, Scikit-learn |
-| 📊 **Sales Dashboard** | BI dashboard with real-time KPIs | Power BI, DAX |
+| **Real-Time Chat App** | A comprehensive communication platform supporting **instant messaging, user presence tracking, and Peer-to-Peer video calling** using WebRTC. | `React, Node, Socket.IO, PeerJS` |
+| **Smart Resume Analyzer** | An AI tool that uses **Natural Language Processing (NLP)** to parse resumes, calculate job-fit scores, and recommend skills to candidates. | `Python, spaCy, NLTK, Flask` |
+| **Shopeasy Grocery** | A full-scale E-commerce solution featuring **secure Stripe payment integration**, dynamic cart management, and admin inventory control. | `MongoDB, Express, React, Node` |
+| **Loan Prediction System** | A Machine Learning application that predicts loan eligibility by analyzing **historical applicant data** with 90%+ accuracy. | `Scikit-learn, Pandas, Python` |
+| **Sales Insights BI** | Interactive dashboard transforming raw SQL data into **visual KPIs**, allowing stakeholders to track revenue growth and regional performance. | `Power BI, DAX, SQL` |
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bharat613&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bharat613&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Bharat613&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=1800" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bharat613&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharat613&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharat613&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
 </p>
 
 ---
@@ -72,9 +68,9 @@
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="mailto:bharatsiva54@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/bharat-venkata-siva-katta-14665424a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Bharat613"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 <p align="center">
