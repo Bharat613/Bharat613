@@ -11,7 +11,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=ARCHITECTING+DATA+SOLUTIONS;ENGINEERING+FULL+STACK+APPS;DRIVING+AI+INNOVATION" alt="Typing Animation" />
 </div>
 
-<p align="center"> <strong>India 🇮🇳 | Data Scientist & MERN Specialist</strong> </p>
+<p align="center"> <strong>India 🇮🇳 | Data Scientist & Java Developer</strong> </p>
 
 ---
 
